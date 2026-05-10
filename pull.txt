@@ -5,5 +5,5 @@ Adding this line for local commit.
 
 Added this line from local to push after commit in git.
 After Local commit throug git.
-
+check for newline added in remote.
 new line added in local.
